@@ -6,4 +6,6 @@ output: html_document
 ---
 Prologue to the wesbite.........  
 # A website to collaborate on amazing research that will change the world  
-# (at the University of Queensland)
+# (at the University of Queensland)  
+
+Note that when you are rendering an rmd file for a website you need to knit it
